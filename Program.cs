@@ -11,10 +11,9 @@ namespace QuanLyThuVien
         static void Main(string[] args)
         {
             Library a = new Library();
-            
+            a.Add(new Book("a", "v", "g", 32, 5));
 
             Console.ReadKey();
-            
         }
     }
 }
