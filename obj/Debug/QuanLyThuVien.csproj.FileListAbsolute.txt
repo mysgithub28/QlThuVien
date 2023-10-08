@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
